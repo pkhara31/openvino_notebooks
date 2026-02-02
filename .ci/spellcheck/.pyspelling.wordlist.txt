@@ -73,6 +73,7 @@ Benchmarking
 benchmarking
 bert
 BERT's
+BERTScore
 BetterTransformer
 Bewley
 bfloat
@@ -88,6 +89,7 @@ BiT
 bitext
 blockwise
 BLACKBOX
+BLEU
 boolean
 CatVTON
 CausVid
@@ -102,7 +104,9 @@ chatglm
 ChatGLM
 ChatGPT
 ChatTTS
+ChromaDB
 chinese
+chroma
 CIN
 ckpt
 CHW
@@ -157,6 +161,7 @@ CPUs
 cpu
 CRNN
 CSV
+csv
 CTC
 CTM
 CUDA
@@ -249,6 +254,7 @@ DocTags
 DocVQA
 docvqa
 DocumentLoaders
+docx
 doi
 Dollár
 donut
@@ -295,6 +301,7 @@ fastcomposer
 FastComposer
 FastDraft
 FastSAM
+FAISS
 FC
 feedforward
 FeedForward
@@ -305,6 +312,7 @@ FEIL
 finetuned
 finetuning
 FLAC
+FlashRank
 FLD
 floyd
 fn
@@ -428,6 +436,7 @@ im
 imageLink
 img
 ip
+ipynb
 IPs
 ir
 IRs
@@ -485,6 +494,7 @@ LADD
 Lai
 LAION
 LangChain
+LangChain's
 langchain
 Lasinger
 latents
@@ -715,6 +725,7 @@ openjourney
 opset
 optimizable
 Orca
+Orchestrator
 otsl
 OSNet
 OTSL
@@ -757,6 +768,7 @@ patchifying
 perceptron
 Patil
 PDFs
+pdf
 pdftex
 PEFT
 perceiver
@@ -978,6 +990,7 @@ speechbrain
 SpeechPipeline
 SpeechT
 splitters
+Splitter
 SPS
 SQA
 SQuAD
@@ -1016,6 +1029,7 @@ surya
 svc
 SVD
 SVTR
+swappable
 Swin
 SwiGLU
 SwinV
@@ -1070,6 +1084,7 @@ TsinghuaNLP
 tunable
 tv
 TwoStreamInterleaveTransformer
+txt
 TypeScript
 tinyllama
 TinyLLama
@@ -1172,6 +1187,7 @@ XCodec
 Xeon
 xformers
 xl
+xlsx
 xt
 xvector
 xvectors
@@ -1188,6 +1204,7 @@ YouTube
 Zafrir
 ZavyChromaXL
 Zongyuan
+Zerodha
 ZeroScope
 zeroscope
 Zhipu
